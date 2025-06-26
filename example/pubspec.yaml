@@ -7,7 +7,7 @@ environment:
 
 dependencies:
   chopper: 8.1.0
-  collection: 1.19.1
+  collection:
   http: 1.3.0
   json_annotation: 4.9.0
 
